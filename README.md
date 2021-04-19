@@ -1,4 +1,4 @@
-# Hi there, I'm Jake 👋
+<h1 align="center">Hi there, I'm Jake 👋</h1>
 
 <!--
 **JakeGame3/jakegame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I code small and cool stuff.:desktop_computer:
+<h2 align="center">I code small and cool stuff.:desktop_computer:</h2>
+</p>
 
 ### *Hi, I'm Jake and I adore coding new stuff. But I'm always learning how to improve my coding skills. If you have any input, anything, feel free to write to me.*
 
