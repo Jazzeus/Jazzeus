@@ -97,6 +97,9 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://discord.com/invite/W9hgq6DaMh"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/></a><br>
 </p>
+
+****
+
 <p align="center">
   <a href="https://jakegame.codes" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
   <b>https://jakegame.codes</b>
