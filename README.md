@@ -42,12 +42,12 @@ Here are some ideas to get you started:
               <img height="65px" src="https://cdn.svgporn.com/logos/java.svg">
             </td> 
               <td width="25%" align="center">
-                <span>PHP</span><br><br><br>
-                <img height="58px" src="https://cdn.svgporn.com/logos/php.svg">
+                <span>Time Tool</span><br><br><br>
+                <img height="58px" src="https://user-images.githubusercontent.com/71566988/115965015-6f077780-a527-11eb-8851-a6ef9292bf57.png">
               </td>  
               <td width="25%" align="center">
-                <span>Python</span><br><br><br>
-                <img height="65px" src="https://cdn.svgporn.com/logos/python.svg">
+                <span>To-Do Tool</span><br><br><br>
+                <img height="65px" src="https://user-images.githubusercontent.com/71566988/115965223-68c5cb00-a528-11eb-9415-8d09aafd293e.png">
               </td> 
               <td width="25%" align="center">
                 <span>Git</span><br><br><br>
@@ -56,19 +56,20 @@ Here are some ideas to get you started:
           <tr valign="mid">
           <td width="25%" align="center">
             <span>IntelliJ</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
+            <a href="https://www.jetbrains.com/idea/" target="_blank"><img height="65px" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></a>
           </td> 
           <td width="25%" align="center">
-            <span>VSCode</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            <span>WakaTime</span><br><br><br>
+            <a href="https://wakatime.com/" target="_blank"><img height="65px" src="https://cdn.svgporn.com/logos/wakatime.svg"></a>
           </td> 
           <td width="25%" align="center">
-            <span>PyCharm</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/pycharm.svg">
+            <span>Trello & Any.do</span><br><br><br>
+            <img height="65px" src="https://cdn.svgporn.com/logos/trello.svg">
+            <img height="65px" src="https://pbs.twimg.com/profile_images/1175878725898002432/RJlIQU1d_400x400.jpg">
           </td>
           <td width="25%" align="center">
             <span>Github</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
+            <img height="65px" src="https://user-images.githubusercontent.com/71566988/115964832-97db3d00-a526-11eb-99d5-886ae12fe0ee.png">
           </td> 
       </table> 
       
