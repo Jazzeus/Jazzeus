@@ -66,8 +66,8 @@ Here are some ideas to get you started:
           </td> 
           <td width="25%" align="center">
             <span>Trello & Any.do</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/trello.svg">
-            <img height="65px" src="https://pbs.twimg.com/profile_images/1175878725898002432/RJlIQU1d_400x400.jpg">
+            <a href="https://trello.com/" target="_blank"><img height="65px" src="https://cdn.svgporn.com/logos/trello.svg"></a>
+            <a href="https://www.any.do/" target="_blank"><img height="65px" src="https://pbs.twimg.com/profile_images/1175878725898002432/RJlIQU1d_400x400.jpg"></a>
           </td>
           <td width="25%" align="center">
             <span>Github</span><br><br><br>
