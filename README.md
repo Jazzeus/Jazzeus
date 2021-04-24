@@ -53,11 +53,8 @@ Here are some ideas to get you started:
 <h3 align="center"><i>Join our Discord server to chat about the server and not miss any updates.</i></h3>
 
 <p align="center">
-<a href="https://discord.com/invite/W9hgq6DaMh" target="_blank"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner4" alt="Discord Banner 4"/></a><br>
-  <a href="https://discord.com/invite/W9hgq6DaMh"<img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/></a><br>
-  <img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner3" alt="Discord Banner 3"/>
-
-<a href="https://discord.gg/W9hgq6DaMh"><img src="https://img.shields.io/discord/835411217597071403?label=HolyMC%20Discord&logo=Discord&logoColor=%23ffffff&style=for-the-badge" target="_blank"></a></p>
+  <a href="https://discord.com/invite/W9hgq6DaMh"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/></a><br>
+</p>
 ****
 <p align="center">
   <a href="https://jakegame.codes" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
