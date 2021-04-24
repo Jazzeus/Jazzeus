@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 ### Or start an issue in the "Issues" Tab
 ****
 # My stats:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakeGame)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakeGame)](https://github.com/anuraghazra/github-readme-stats)<br>
+----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakegame3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ****
 ### FOLLOW ME!
 #### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/JakeGame3 "Follow")
