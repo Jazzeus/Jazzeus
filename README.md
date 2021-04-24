@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <h1 align="center"><a href="https://github.com/HolyMC" target="_blank">OUR MINECRAFT SERVER</h1></a>
 
 
-### Want to play every game imaginable (like Bedwars, FFA and more) on a growing Minecraft server?<br>
+### Want to play every game imaginable (like Bedwars, KitPvP, Survival and more) on a growing Minecraft server?<br>
 ### Then join our server by entering <b>holymc.games</b> in the server address field.<br>
-<h1 align="center"><a href="https://github.com/HolyMC" target="_blank">OUR MINECRAFT SERVER</h1></a>
+
 
 
 <a href="https://discord.gg/W9hgq6DaMh"><img src="https://img.shields.io/discord/530141674463035402?label=HolyMC%20Discord&logo=Discord&logoColor=%23ffffff&style=for-the-badge" target="_blank"></a>
