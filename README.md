@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://discord.com/invite/W9hgq6DaMh" target="_blank"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner4" alt="Discord Banner 4"/></a><br>
-  <img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/><br>
+  <a href="https://discord.com/invite/W9hgq6DaMh"<img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/></a><br>
   <img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner3" alt="Discord Banner 3"/>
 
 <a href="https://discord.gg/W9hgq6DaMh"><img src="https://img.shields.io/discord/835411217597071403?label=HolyMC%20Discord&logo=Discord&logoColor=%23ffffff&style=for-the-badge" target="_blank"></a></p>
