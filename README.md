@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Or start an issue in the "Issues" Tab
 ****
 # My stats:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jakegame)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Jake's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jakegame)](https://github.com/anuraghazra/github-readme-stats)<br>
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakegame3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ****
