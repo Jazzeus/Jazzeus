@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 
 ### Want to play every game imaginable (like Bedwars, KitPvP, Survival and more) on a growing Minecraft server?<br>
 ### Then join our server by entering <b>holymc.games</b> in the server address field.<br>
+----
+<h3 align="center"><i>Join our Discord server to chat about the server and not miss any updates.</i></h3>
 
 <p align="center">
 <a href="https://discord.com/invite/W9hgq6DaMh" target="_blank"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner4" alt="Discord Banner 4"/></a><br>
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/W9hgq6DaMh"><img src="https://img.shields.io/discord/835411217597071403?label=HolyMC%20Discord&logo=Discord&logoColor=%23ffffff&style=for-the-badge" target="_blank"></a></p>
 ****
 <p align="center">
-  <img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"><br>
+  <a href="https://jakegame.codes" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
   <b>https://jakegame.codes</b>
 </p>
 
