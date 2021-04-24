@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 
 ### Want to play every game imaginable (like Bedwars, KitPvP, Survival and more) on a growing Minecraft server?<br>
-### Then join our server by entering <b><i>holymc.games</b></i> in the server address field.<br>
+### Then join our server by entering <i><u>holymc.games</i></u> in the server address field.<br>
 ----
 <h3 align="center"><i>Join our Discord server to chat about the server and not miss any updates.</i></h3>
 
