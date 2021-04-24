@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 > [<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100" height="100"/>](https://jakegame.codes "VIEW MY WEBSITE!")
 ### Or start an issue in the "Issues" Tab
 ****
-# My stats:
+<h1 align="center">My stats:</h1>
+
 [![Jake's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jakegame)](https://github.com/anuraghazra/github-readme-stats)<br>
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakegame3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
