@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center">I code small and cool stuff.:desktop_computer:</h2>
 </p>
 
-### *Hi, I'm Jake and I adore coding new stuff. But I'm always learning how to improve my coding skills. If you have any input, anything, feel free to write to me. I'm currently still learning Java! <br> Languages I speak: English, German and French.*
+### *Hi, I'm Jake and I adore coding new stuff. But I'm always learning how to improve my coding skills and I'm currently still learning Java!. If you have any input, anything, feel free to write to me.  <br> Languages I speak: English, German and French.*
 
 ### How to reach me: <br>
 
