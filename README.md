@@ -35,6 +35,45 @@ Here are some ideas to get you started:
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakegame3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ****
+<table>
+          <tr valign="top">
+            <td width="25%" align="center">
+              <span>Java</span><br><br><br>
+              <img height="65px" src="https://cdn.svgporn.com/logos/java.svg">
+            </td> 
+              <td width="25%" align="center">
+                <span>PHP</span><br><br><br>
+                <img height="58px" src="https://cdn.svgporn.com/logos/php.svg">
+              </td>  
+              <td width="25%" align="center">
+                <span>Python</span><br><br><br>
+                <img height="65px" src="https://cdn.svgporn.com/logos/python.svg">
+              </td> 
+              <td width="25%" align="center">
+                <span>Git</span><br><br><br>
+                <img height="48px" src="https://cdn.svgporn.com/logos/git.svg">
+              </td>
+          <tr valign="mid">
+          <td width="25%" align="center">
+            <span>IntelliJ</span><br><br><br>
+            <img height="65px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
+          </td> 
+          <td width="25%" align="center">
+            <span>VSCode</span><br><br><br>
+            <img height="65px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+          </td> 
+          <td width="25%" align="center">
+            <span>PyCharm</span><br><br><br>
+            <img height="65px" src="https://cdn.svgporn.com/logos/pycharm.svg">
+          </td>
+          <td width="25%" align="center">
+            <span>Github</span><br><br><br>
+            <img height="65px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
+          </td> 
+      </table> 
+      
+      
+****
 ### FOLLOW ME!
 #### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/JakeGame3 "Follow")
 ****
@@ -55,7 +94,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://discord.com/invite/W9hgq6DaMh"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/></a><br>
 </p>
-****
 <p align="center">
   <a href="https://jakegame.codes" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
   <b>https://jakegame.codes</b>
