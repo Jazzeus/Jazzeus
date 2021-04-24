@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">I code small and cool stuff.:desktop_computer:</h2>
-</p>
+
 
 ### *Hi, I'm Jake and I adore coding new stuff. But I'm always learning how to improve my coding skills and I'm currently still learning Java! If you have any input, anything, feel free to write to me.  <br> Languages I speak: English, German and French.*
 
@@ -44,8 +44,14 @@ Here are some ideas to get you started:
 ### STAR AND WATCH MY REPOSITORIES!
 #### [STAR AND WATCH THEM](https://github.com/JakeGame3?tab=repositories " Star and Watch")
 ****
+<h1 align="center"><a href="https://github.com/HolyMC" target="_blank">OUR MINECRAFT SERVER</h1></a>
+
+
+### Want to play every game imaginable (like Bedwars, FFA and more) on a growing Minecraft server?<br>
+Then join our server by entering <b>holymc.games</b> in the server address field.
+****
 <p align="center">
-  <b><h2>Minecraft Server</b></h2>
   <img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"><br>
   <b>https://jakegame.codes</b>
 </p>
+
