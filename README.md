@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### Then join our server by entering <b>holymc.games</b> in the server address field.<br>
 
 <p align="center">
-<a href="https://github.com/HolyMC" target="_blank"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner4" alt="Discord Banner 4"/></a><br>
+<a href="https://discord.com/invite/W9hgq6DaMh" target="_blank"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner4" alt="Discord Banner 4"/></a><br>
   <img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/><br>
   <img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner3" alt="Discord Banner 3"/>
 
