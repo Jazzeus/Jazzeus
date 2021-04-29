@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <h2 align="center">I code small and cool stuff.:desktop_computer:</h2>
 
 
-### *Hi, I'm Jakob and I adore coding new stuff. But I'm always learning how to improve my coding skills and I'm currently still learning Java! If you have any input, anything, feel free to write to me.  <br> Languages I speak: English, German and French.*
+### *Hello everyone! My name is Jakob and I come from Germany.  I am passionate about all things Programming/Coding. I constantly seek opportunities/projects that help me practice and further develop my knowledge and skill base. In my free time I enjoy programming anything and everything, for example games, of which you can follow my progress below. Any comments/feedback/advice you might have are most welcome, so please do feel free to get in touch with me.*
+*I speak the following languages: German, French, English.*
 
 ### How to reach me: <br>
 
