@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [![Jake's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jakegame)](https://github.com/anuraghazra/github-readme-stats)<br>
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakegame3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jblitzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ****
 <h1 align="center">Tools I use:</h1>
 <table>
