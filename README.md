@@ -1,8 +1,11 @@
 <h1 align="center">Hallo! Hi there! Bonjour, I'm Jakob 👋</h1>
 
+
 <!--
 **JakeGame3/jakegame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71566988/122071368-fc17d000-cdf6-11eb-8f46-36354254a121.gif" />
+</p>
 
 - 🔭 I’m currently working on **SuperBlitz** and an **App**
 - 🌱 I’m currently learning **Java**
