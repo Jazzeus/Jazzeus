@@ -81,19 +81,15 @@
       
 ****
 ### FOLLOW ME!
-#### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/JakeGame3 "Follow")
+#### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/BLITZ-GIT"Follow")
 ****
 ### DONATE!
 #### [DONATE HERE](https://paypal.me/conceptblitz "Donate")
+#### You want to support me to make the projects even better and more efficient? <br> Then you are a man of honor and a thank you goes out to you.
 ****
 ### STAR AND WATCH MY REPOSITORIES!
 #### [STAR AND WATCH THEM](https://github.com/BLITZ-GIT?tab=repositories " Star and Watch")
 ****
-<h1 align="center"><a href="https://github.com/HolyMC" target="_blank">OUR MINECRAFT SERVER</h1></a>
-
-
-****
-
 <p align="center">
   <a href="https://jakegame.codes" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
   <b>https://jakegame.codes</b>
