@@ -84,22 +84,13 @@
 #### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/JakeGame3 "Follow")
 ****
 ### DONATE!
-#### [DONATE HERE](https://paypal.me/jakegame3 "Donate")
+#### [DONATE HERE](https://paypal.me/conceptblitz "Donate")
 ****
 ### STAR AND WATCH MY REPOSITORIES!
-#### [STAR AND WATCH THEM](https://github.com/JakeGame3?tab=repositories " Star and Watch")
+#### [STAR AND WATCH THEM](https://github.com/BLITZ-GIT?tab=repositories " Star and Watch")
 ****
 <h1 align="center"><a href="https://github.com/HolyMC" target="_blank">OUR MINECRAFT SERVER</h1></a>
 
-
-### Want to play every game imaginable (like Bedwars, KitPvP, Survival and more) on a growing Minecraft server?<br>
-### Then join our server by entering <i><u>holymc.games</i></u> in the server address field.<br>
-----
-<h3 align="center"><i>Join our Discord server to chat about the server and not miss any updates.</i></h3>
-
-<p align="center">
-  <a href="https://discord.com/invite/W9hgq6DaMh"><img src="https://discordapp.com/api/guilds/835411217597071403/widget.png?style=banner2" alt="Discord Banner 2"/></a><br>
-</p>
 
 ****
 
