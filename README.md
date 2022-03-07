@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/71566988/122071368-fc17d000-cdf6-11eb-8f46-36354254a121.gif" />
 </p>
 
-- 🔭 I’m currently working on a [**Calculator**](https://github.com/BLITZ-GIT/TaschenrechnerGUI) and an **App**
+- 🔭 I’m currently working on a [**Calculator**](https://github.com/BLITZ-GIT/Calculator) and an **App**
 - 🌱 I’m currently learning **Java**
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
