@@ -7,12 +7,12 @@
 <img src="https://user-images.githubusercontent.com/71566988/122071368-fc17d000-cdf6-11eb-8f46-36354254a121.gif" />
 </p>
 
-- 🔭 I’m currently working on a [**Calculator**](https://github.com/BLITZ-GIT/Calculator) and an **App**
+- 🔭 I’m currently working on a [**Calculator**](https://github.com/Jazzeus/Calculator) and an **App**
 - 🌱 I’m currently learning **Java**
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **everything!**
-- 📫 How to reach me: [Press HERE](https://github.com/BLITZ-GIT/BLITZ-GIT/blob/main/README.md#send-me-a-dm-via-)
+- 📫 How to reach me: [Press HERE](https://github.com/Jazzeus/Jazzeus/blob/main/README.md#send-me-a-dm-via-)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -27,8 +27,8 @@
 > ****
 >[<img src="https://user-images.githubusercontent.com/71566988/115141308-cb582c00-a03b-11eb-885e-ed3b4773ddbe.gif" width="110" height="110"/>](https://discordapp.com/users/601715164835741696 "Send me a MESSAGE via Discord")
 >[<img src="https://media.giphy.com/media/iFgzUCWgxj7B22ik2K/giphy.gif" width="200" height="100"/>](https://www.reddit.com/user/JakeGame3 "Send me a MESSAGE via Reddit") 
->[<img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" width="100" height="100"/>](https://twitter.com/BLITZ_TW1TTER "Send me a MESSAGE via Twitter")
->[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oRJctm5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ow81dc1olanqq6kfefxl.gif" width="120" height="100"/>](https://dev.to/blitz_dev "Send me a MESSAGE via DEV")<br>
+>[<img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" width="100" height="100"/>](https://twitter.com/_Jazzeus_ "Send me a MESSAGE via Twitter")
+>[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oRJctm5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ow81dc1olanqq6kfefxl.gif" width="120" height="100"/>](https://dev.to/jazzeus "Send me a MESSAGE via DEV")<br>
 > ### **Or visit my [website](https://jakegame.codes)**
 > [<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100" height="100"/>](https://jakegame.codes "VIEW MY WEBSITE!")
 ### Or start an issue in the "Issues" Tab
@@ -37,7 +37,7 @@
 
 [![Jake's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jakegame)](https://github.com/anuraghazra/github-readme-stats)<br>
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLITZ-GIT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzeus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ****
 <h1 align="center">Tools I use:</h1>
 <table>
@@ -81,14 +81,14 @@
       
 ****
 ### FOLLOW ME!
-#### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/BLITZ-GIT"Follow")
+#### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.comJazzeus "Follow")
 ****
 ### DONATE!
 #### [DONATE HERE](https://paypal.me/conceptblitz "Donate")
 #### You want to support me to make the projects even better and more efficient? <br> Then you are a man of honor and a thank you goes out to you.
 ****
 ### STAR AND WATCH MY REPOSITORIES!
-#### [STAR AND WATCH THEM](https://github.com/BLITZ-GIT?tab=repositories " Star and Watch")
+#### [STAR AND WATCH THEM](https://github.com/Jazzeus?tab=repositories " Star and Watch")
 ****
 <p align="center">
   <a href="https://jakegame.codes" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
