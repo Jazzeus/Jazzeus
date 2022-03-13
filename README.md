@@ -4,7 +4,7 @@
 <!--
 **JakeGame3/jakegame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71566988/122071368-fc17d000-cdf6-11eb-8f46-36354254a121.gif" />
+<img src="https://user-images.githubusercontent.com/71566988/158070792-dc27df79-c28f-4128-8825-88079dd27e93.gif" />
 </p>
 
 - 🔭 I’m currently working on a [**Calculator**](https://github.com/Jazzeus/Calculator) and an **App**
