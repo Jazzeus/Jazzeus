@@ -92,6 +92,6 @@
 ****
 <p align="center">
   <a href="https://jazzeus.com" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
-  <b>https://jakegame.codes</b>
+  <b>https://jazzeus.com</b>
 </p>
 
