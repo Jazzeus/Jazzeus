@@ -29,7 +29,7 @@
 >[<img src="https://media.giphy.com/media/iFgzUCWgxj7B22ik2K/giphy.gif" width="200" height="100"/>](https://www.reddit.com/user/JakeGame3 "Send me a MESSAGE via Reddit") 
 >[<img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" width="100" height="100"/>](https://twitter.com/_Jazzeus_ "Send me a MESSAGE via Twitter")
 >[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oRJctm5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ow81dc1olanqq6kfefxl.gif" width="120" height="100"/>](https://dev.to/jazzeus "Send me a MESSAGE via DEV")<br>
-> ### **Or visit my [website](https://jakegame.codes)**
+> ### **Or visit my [website](https://jazzeus.com)**
 > [<img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100" height="100"/>](https://jakegame.codes "VIEW MY WEBSITE!")
 ### Or start an issue in the "Issues" Tab
 ****
@@ -91,7 +91,7 @@
 #### [STAR AND WATCH THEM](https://github.com/Jazzeus?tab=repositories " Star and Watch")
 ****
 <p align="center">
-  <a href="https://jakegame.codes" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
+  <a href="https://jazzeus.com" target="_blank"><img width="150" height="150" src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif"></a><br>
   <b>https://jakegame.codes</b>
 </p>
 
