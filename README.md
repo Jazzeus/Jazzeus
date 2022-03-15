@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on a [**Calculator**](https://github.com/Jazzeus/Calculator) and an **App**
-- 🌱 I’m currently learning **Java & JavaScript**
+- 🌱 I’m currently learning **Java & HTML/CSS**
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **everything!**
