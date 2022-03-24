@@ -100,4 +100,4 @@
 ***
 #### Credits:
 Icons: [icons8.com](https://icons8.com) <br>
-Other: And various nice helpers. Especially [@superhellth](https://github.com/superhellth) and [@Fornball](https://github.com/Fornball)
+Helper: And various nice helpers. Especially [@superhellth](https://github.com/superhellth) and [@Fornball](https://github.com/Fornball)
