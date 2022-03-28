@@ -79,7 +79,8 @@
           </td> 
       </table> 
       
-      
+![discord.com/app](https://discord.c99.nl/widget/theme-2/601715164835741696.png)
+![discord.com/app](https://discord.c99.nl/widget/theme-1/601715164835741696.png)
 ****
 ### FOLLOW ME!
 #### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.comJazzeus "Follow")
