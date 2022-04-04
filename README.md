@@ -36,9 +36,9 @@
 ****
 <h1 align="center">My stats:</h1>
 
-[![Jake's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jazzeus)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Jake's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jazzeus&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) ㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzeus&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzeus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jazzeus&theme=algolia&show_icons=true) ㅤ[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jazzeus&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=DD2727)](https://git.io/streak-stats)
 ****
 <h1 align="center">Tools I use:</h1>
 <table>
