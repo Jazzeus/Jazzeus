@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/71566988/158070792-dc27df79-c28f-4128-8825-88079dd27e93.gif" />
 </p>
 
-- 🔭 I’m currently working on a [**Calculator**](https://github.com/Jazzeus/Calculator) and an **App**
+- 🔭 I’m currently working on my own [Website](https://github.com/Jazzeus/jazzeus.com-Bridge-Website) and an **App**
 - 🌱 I’m currently learning **Java & HTML/CSS**
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
