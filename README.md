@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on my own [Website](https://github.com/Jazzeus/jazzeus.com-Bridge-Website) and an **App**
-- 🌱 I’m currently learning **Java & HTML/CSS**
+- 🌱 I’m currently learning **Java**
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **everything!**
@@ -21,7 +21,7 @@
 
 ### *Hello everyone! My name is Jakob, I'm 17 years old and I come from Germany. I am passionate about all things Programming/Coding. I constantly seek opportunities/projects that help me practice and further develop my knowledge and skill base. In my free time I enjoy programming anything and everything, for example games, of which you can follow my progress below.<br> Any comments/feedback/advice you might have are most welcome, so please do feel free to get in touch with me. <br>I speak the following languages: German, French, English.*
 
-### How to reach me: <br>
+### Let's stay in touch: <br>
 
 > ### **Send me a DM via** <br>
 > ****
